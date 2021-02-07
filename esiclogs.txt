@@ -1,0 +1,11 @@
+Username enteredPassword enteredMessage: Unable to locate element: [id="div1_close"]
+Invalid Captcha:- Unsuccessful Login:- Try to Login againUsername enteredPassword enteredMessage: Unable to locate element: [id="div1_close"]
+Invalid Captcha:- Unsuccessful Login:- Try to Login againUsername enteredPassword enteredMessage: Unable to locate element: [id="div1_close"]
+Invalid Captcha:- Unsuccessful Login:- Try to Login againUsername enteredPassword enteredMessage: Unable to locate element: [id="div1_close"]
+Invalid Captcha:- Unsuccessful Login:- Try to Login againUsername enteredPassword enteredLogin SuccessfulNomineeDetails :-Data saved successfullyEmpe_BankAcc_Details :-Details are saved successfullyUsername enteredPassword enteredMessage: Unable to locate element: [id="div1_close"]
+:- Username And Password must be correct Authentication Failed.4:- Unsuccessful Login:- Try to Login againUsername enteredPassword enteredLogin SuccessfulUsername enteredPassword enteredMessage: Unable to locate element: [id="div1_close"]
+Invalid Captcha:- Unsuccessful Login:- Try to Login againUsername enteredPassword enteredLogin SuccessfulExcepton in esic start apiMessage: [Exception... "Component not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: chrome://marionette/content/modal.js :: get window :: line 199"  data: no]
+Username enteredPassword enteredMessage: Unable to locate element: [id="div1_close"]
+Invalid Captcha:- Unsuccessful Login:- Try to Login againUsername enteredPassword enteredLogin SuccessfulUsername enteredPassword enteredMessage: Unable to locate element: [id="div1_close"]
+Invalid Captcha:- Unsuccessful Login:- Try to Login againUsername enteredPassword enteredMessage: Unable to locate element: [id="div1_close"]
+Invalid Captcha:- Unsuccessful Login:- Try to Login againUsername enteredPassword enteredLogin SuccessfulUsername enteredPassword enteredLogin SuccessfulNomineeDetails :-Data saved successfullyFamilyDetails :-Details are saved successfullyEmpe_BankAcc_Details :-Details are saved successfullyEmployeeRegistration :-Unable to fetch alert text, when clicked on i agree
